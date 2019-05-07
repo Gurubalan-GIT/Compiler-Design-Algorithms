@@ -6,7 +6,7 @@
  * Copyright (c) 2019 Gurubalan Harikrishnan
  */
 #include<stdio.h>  
-  #include<string.h>  
+#include<string.h>  
   int main()  
   {  
        char gram[20],part1[20],part2[20],modifiedGram[20],newGram[20],tempGram[20];  
